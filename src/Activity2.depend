@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619174071 source:c:\users\hp\documents\ltts_embed\activity1\fuse.c
+	<avr/io.h>
+
+1619697063 source:c:\users\hp\documents\ltts_embed\activity1\main.c
+	<avr/io.h>
+
