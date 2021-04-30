@@ -1,6 +1,6 @@
 # Activity1
 
-# MiniProject_EmbeddedC_260913
+# Activity_EmbeddedC_260877
 ## Activity-1
 
 |ON|OFF|
