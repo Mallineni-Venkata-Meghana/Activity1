@@ -6,4 +6,4 @@
 
 |ON|OFF|
 |--|--|
-| ![screen 1500px](simulation/LED ON.PNG)| ![screen 1500px](simulation/LED OFF 1.PNG)|
+| https://github.com/Mallineni-Venkata-Meghana/Activity1/blob/main/simulation/LED%20ON.png https://github.com/Mallineni-Venkata-Meghana/Activity1/blob/main/simulation/LED%20OFF%203.png
